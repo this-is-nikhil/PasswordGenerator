@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/this-is-nikhil/PasswordGenerator/static/css/main.9f928797.css",
+    "main.js": "/this-is-nikhil/PasswordGenerator/static/js/main.2688fe63.js",
+    "index.html": "/this-is-nikhil/PasswordGenerator/index.html",
+    "main.9f928797.css.map": "/this-is-nikhil/PasswordGenerator/static/css/main.9f928797.css.map",
+    "main.2688fe63.js.map": "/this-is-nikhil/PasswordGenerator/static/js/main.2688fe63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f928797.css",
+    "static/js/main.2688fe63.js"
+  ]
+}
